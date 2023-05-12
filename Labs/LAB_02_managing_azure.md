@@ -4,12 +4,13 @@ lab:
     module: 'Azure Core'
 ---
 
-# Lab 01 - Managing Azure?
-# Student lab manual
+# Lab 02 - Managing Azure
 
 ## Challenge scenario
 
 You will learn fundamentals of Azure administration capabilities - login to portal, create and manage resource groups and create and manage resources. 
+
+First try to solve the challenges on your own, in case you have trouble, click on the arrow left of the challenge for a detailed guide
 
 ## Objectives
 
