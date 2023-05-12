@@ -50,7 +50,7 @@ In this lab, you will:
 
 1. Click on the wheels icon top right
 
-  ![image](../Images/03_01.png)
+  ![image](../Images/03_02.png)
 
 </details>
 
@@ -73,16 +73,19 @@ In this lab, you will:
     |User principal name| firstuser |
     |Display name| First User |
 
-    ![image](../Images/03_01.png)
+    ![image](../Images/03_03.png)
 
 1. Click Next: Properties (you can fill optional infor)
 1. Click Next: Asignments
 1. Add Role and search for "Groups Administrator" and click select
+
+    ![image](../Images/03_04.png)
+
 1. Review + Create
 1. alternatively, you can add group after the user is created via Assigned roles
 
 
-    ![image](../Images/03_01.png)
+    ![image](../Images/03_05.png)
 
   Note that we cannot add any Azure permission, since the thew Active Directory does not contain any subscriptions
 
@@ -99,9 +102,11 @@ In this lab, you will:
 1. Go to Subscriptions and choose your subscription
 1. In the left menu, and click next
 
-    ![image](../Images/03_01.png)
+    ![image](../Images/03_06.png)
 
 1. Click select Members and search for firstuser@<yourdomain>.onmicrosoft.com. Dobule click to select
+
+    ![image](../Images/03_07.png)
 1. Review + Assign
 
 
@@ -129,12 +134,12 @@ In this lab, you will:
 1. In the Azure portal, search for and select **Azure Active Directory**
 1. Select Groups, New Group
 
-    ![image](../Images/03_01.png)
+    ![image](../Images/03_08.png)
 
 1. Select allguests group and select Members in left menu
 1. Select Add Members and find firstuser
 
-    ![image](../Images/03_01.png)
+    ![image](../Images/03_09.png)
 
 </details>
 
