@@ -42,7 +42,7 @@ In this lab, you will:
     ![image](../Images/03_01.png)
 
 </details>
-<br>
+<br/><br/>
 
 <details>
   <summary markdown="span">Switch between directories</summary>
@@ -54,7 +54,7 @@ In this lab, you will:
   ![image](../Images/03_02.png)
 
 </details>
-<br>
+<br/><br/>
 
 
 
@@ -91,7 +91,7 @@ In this lab, you will:
   Note that we cannot add any Azure permission, since the thew Active Directory does not contain any subscriptions
 
 </details>
-<br>
+<br/><br/>
 
 
 <details>
@@ -128,7 +128,7 @@ In this lab, you will:
 1. Close the browser
 
 </details>
-<br>
+<br/><br/>
 
 <details>
   <summary markdown="span">Create a group called "allguests" for all **guest** users in your tenant and add "firstuser"</summary>
@@ -144,7 +144,7 @@ In this lab, you will:
     ![image](../Images/03_09.png)
 
 </details>
-<br>
+<br/><br/>
 
 <details>
   <summary markdown="span">Optional - add your private hotmail or gmail as a reader and add them to the allguests group</summary>

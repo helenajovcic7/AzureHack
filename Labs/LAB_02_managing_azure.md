@@ -49,7 +49,7 @@ In this task, you will use the Azure portal to create resource groups and create
 1. Repeat for "Test" and deploy to North Europe
 
 </details>
-<br>
+<br/><br/>
 
 <details>
   <summary markdown="span">Tag a resource group with a tag Department "IT"</summary>
@@ -67,7 +67,7 @@ In this task, you will use the Azure portal to create resource groups and create
 1. Click Apply
 
 </details>
-<br>
+<br/><br/>
 
 <details>
   <summary markdown="span">Add a Storage account named "myfirststorageaccount" to Test resource group in North Europe</summary>
@@ -88,7 +88,7 @@ In this task, you will use the Azure portal to create resource groups and create
 1. Click **Review + Create** and then click **Create**.
 
 </details>
-<br>
+<br/><br/>
 
 <details>
   <summary markdown="span">Create a policy to only allow West Europe resources to be deployed to Production resource group</summary>
@@ -116,7 +116,7 @@ In this task, you will use the Azure portal to create resource groups and create
 1. Click Review + Create
 
 </details>
-<br>
+<br/><br/>
 
 <details>
   <summary markdown="span">Create a resource lock to disable deletion of Production resource group</summary>
@@ -129,7 +129,7 @@ In this task, you will use the Azure portal to create resource groups and create
     |Lock type| **Delete** |
 
 </details>
-<br>
+<br/><br/>
 
 
 
