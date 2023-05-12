@@ -102,8 +102,8 @@ In this task, you will use the Azure portal to create resource groups and create
     |Policy definition| Search for "Allowed locations" |
     |Enforcement| Enabled |
 
-![image](../Images/02_03.png)
-![image](../Images/02_04.png)
+    ![image](../Images/02_03.png)
+    ![image](../Images/02_04.png)
 
 1. Click Next and next, to enter Parameters
 
@@ -119,7 +119,7 @@ In this task, you will use the Azure portal to create resource groups and create
 1. On the **Production** resource group blade, click **Locks** then **+ Add** and specify the following settings:
 
     |Setting|Value|
-    |---|---|
+    ---|---|
     |Lock name| **delete-lock** |
     |Lock type| **Delete** |
 
@@ -136,11 +136,11 @@ In this task, you will use the Azure portal to create resource groups and create
 1. Select your storage account
 1. Click Move and Move to another resource group
 
-![image](../Images/02_05.png)
+    ![image](../Images/02_05.png)
 
 1. Select **Production** and click next and observe a failed validation
 
-![image](../Images/02_06.png)
+    ![image](../Images/02_06.png)
 
 </details>
 
