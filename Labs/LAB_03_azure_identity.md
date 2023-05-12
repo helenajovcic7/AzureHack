@@ -93,7 +93,6 @@ In this lab, you will:
 </details>
 <br/><br/>
 
-
 <details>
   <summary markdown="span">Add the new user as a reader to your Azure subscription</summary>
 
@@ -113,7 +112,7 @@ In this lab, you will:
 
 
 </details>
-<br>
+<br/><br/>
 
 <details>
   <summary markdown="span">Login to Azure portal with the new user</summary>

@@ -131,9 +131,6 @@ In this task, you will use the Azure portal to create resource groups and create
 </details>
 <br/><br/>
 
-
-
-
 <details>
   <summary markdown="span">Move the storage account you created before to "Production" resource group </summary>
 
