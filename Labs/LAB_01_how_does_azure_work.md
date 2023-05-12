@@ -5,7 +5,6 @@ lab:
 ---
 
 # Lab 01 - How does Azure work?
-# Student lab manual
 
 ## Challenge scenario
 

@@ -4,21 +4,20 @@ lab:
     module: 'Azure Core'
 ---
 
-# Lab 01 - Managing Azure?
-# Student lab manual
+# Lab 03 - Identities and governance
 
 ## Challenge scenario
 
 You will learn fundamentals of Azure administration capabilities - Users, Role Based Access Control
 
+First try to solve the challenges on your own, in case you have trouble, click on the arrow left of the challenge for a detailed guide
+
 ## Objectives
 
 In this lab, you will:
 
-+ Create a new Azure Active Directory tennant
-+ Create a new AD User
-+ Assign permission to the new user
-+ Create a custom role
++ Create a new Azure Active Directory tennant and a new AD user
++ Assign roles to the new user
 + Create an AD group
 
 
@@ -143,25 +142,6 @@ In this lab, you will:
   <summary markdown="span">Optional - add your private hotmail or gmail as a reader and add them to the allguests group</summary>
 
 
-
-</details>
-
-
-
-
-
-<details>
-  <summary markdown="span">Move the storage account you created before to "Production" resource group </summary>
-
-1. In the Azure portal, search for and select **Storage accounts**
-1. Select your storage account
-1. Click Move and Move to another resource group
-
-    ![image](../Images/02_05.png)
-
-1. Select **Production** and click next and observe a failed validation
-
-    ![image](../Images/02_06.png)
 
 </details>
 
