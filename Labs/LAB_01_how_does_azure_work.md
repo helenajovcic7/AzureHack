@@ -33,7 +33,7 @@ In this lab, you will:
 
 
 <details>
-  <summary>Find information about your account</summary>
+  <summary markdown="span">Find information about your account</summary>
 
 #### Login to Azure portal
 
@@ -45,7 +45,7 @@ In this lab, you will:
 </details>
 
 <details>
-  <summary>Find link to documentation</summary>
+  <summary markdown="span">Find link to documentation</summary>
 
 1. Click on question mark on the top right 
 or
@@ -55,7 +55,7 @@ or
 
 
 <details>
-  <summary>Navigate to Azure quotas page</summary>
+  <summary markdown="span">Navigate to Azure quotas page</summary>
 
 1. use seach bar in the documentation to search for term "view Quota"
 1. https://learn.microsoft.com/en-us/azure/quotas/view-quotas
@@ -67,7 +67,7 @@ or
 
 
 <details>
-  <summary>Find information about your subscription (Subscription ID, Subscription Name) </summary>
+  <summary markdown="span">Find information about your subscription (Subscription ID, Subscription Name) </summary>
 
 1. Switch back to Azure portal tab
 1. In the Azure portal, search for and select **Subscriptions**
@@ -78,7 +78,7 @@ or
 
 
 <details>
-  <summary>Find quotas applied to your subscription </summary>
+  <summary markdown="span">Find quotas applied to your subscription </summary>
 
 1. In the Azure portal, search for and select **Subscriptions**
 1. Click on your subscription

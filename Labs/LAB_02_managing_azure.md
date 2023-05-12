@@ -26,7 +26,7 @@ In this lab, you will:
 
 
 <details>
-  <summary>Create 2 resource groups - Production (West Europe) and Test (North Europe)</summary>
+  <summary markdown="span">Create 2 resource groups - Production (West Europe) and Test (North Europe)</summary>
 
 #### Task 1: Create resource groups
 
@@ -50,7 +50,7 @@ In this task, you will use the Azure portal to create resource groups and create
 </details>
 
 <details>
-  <summary>Tag a resource group with a tag Department "IT"</summary>
+  <summary markdown="span">Tag a resource group with a tag Department "IT"</summary>
 
 #### Task 2: Tag resource group
 
@@ -67,7 +67,7 @@ In this task, you will use the Azure portal to create resource groups and create
 </details>
 
 <details>
-  <summary>Add a Storage account named "myfirststorageaccount" to Test resource group in North Europe</summary>
+  <summary markdown="span">Add a Storage account named "myfirststorageaccount" to Test resource group in North Europe</summary>
 
 ### Task 3: Create a storage account in Test resource group
 
@@ -87,7 +87,7 @@ In this task, you will use the Azure portal to create resource groups and create
 </details>
 
 <details>
-  <summary>Create a policy to only allow West Europe resources to be deployed to Production resource group</summary>
+  <summary markdown="span">Create a policy to only allow West Europe resources to be deployed to Production resource group</summary>
 
 1. In the Azure portal, search for and select **Policies**
 
@@ -114,7 +114,7 @@ In this task, you will use the Azure portal to create resource groups and create
 </details>
 
 <details>
-  <summary>Create a resource lock to disable deletion of Production resource group</summary>
+  <summary markdown="span">Create a resource lock to disable deletion of Production resource group</summary>
 
 1. On the **Production** resource group blade, click **Locks** then **+ Add** and specify the following settings:
 
@@ -130,7 +130,7 @@ In this task, you will use the Azure portal to create resource groups and create
 
 
 <details>
-  <summary>Move the storage account you created before to "Production" resource group </summary>
+  <summary markdown="span">Move the storage account you created before to "Production" resource group </summary>
 
 1. In the Azure portal, search for and select **Storage accounts**
 1. Select your storage account
