@@ -29,9 +29,8 @@ In this lab, you will:
 <details>
   <summary markdown="span">Create 2 resource groups - Production (West Europe) and Test (North Europe)</summary>
 
-#### Task 1: Create resource groups
 
-In this task, you will use the Azure portal to create resource groups and create a disk in the resource group.
+1. In this task, you will use the Azure portal to create resource groups and create a disk in the resource group.
 
 1. Sign in to the [**Azure portal**](http://portal.azure.com).
 
@@ -54,7 +53,6 @@ In this task, you will use the Azure portal to create resource groups and create
 <details>
   <summary markdown="span">Tag a resource group with a tag Department "IT"</summary>
 
-#### Task 2: Tag resource group
 
 1. Open the resource group
 1. Click Tags in the left menu
@@ -72,7 +70,6 @@ In this task, you will use the Azure portal to create resource groups and create
 <details>
   <summary markdown="span">Add a Storage account named "myfirststorageaccount" to Test resource group in North Europe</summary>
 
-### Task 3: Create a storage account in Test resource group
 
 1. In the Azure portal, search for and select **Storage accounts**, click **+ Create**. Add the following settings
 

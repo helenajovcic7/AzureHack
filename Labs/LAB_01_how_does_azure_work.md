@@ -23,7 +23,6 @@ In this lab, you will:
 <details>
   <summary markdown="span">Login to Azure portal</summary>
 
-#### Login to Azure portal
 
 1. Navigate to portal.azure.com
 1. Login using provided credentials
@@ -34,7 +33,6 @@ In this lab, you will:
 <details>
   <summary markdown="span">Find information about your account</summary>
 
-#### Login to Azure portal
 
 1. Click on the name on the top right of the portal
 1. Click on View Account
@@ -47,8 +45,7 @@ In this lab, you will:
 <details>
   <summary markdown="span">Find link to documentation</summary>
 
-1. Click on question mark on the top right 
-or
+1. Click on question mark on the top right or
 1. Click on link on the bottom left of the front page
 
 </details>

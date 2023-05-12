@@ -29,8 +29,6 @@ In this lab, you will:
 <details>
   <summary markdown="span">Create a new Azure Active Directory</summary>
 
-#### Task 1: Create a new Azure Active Directory
-
 
 1. Sign in to the [**Azure portal**](http://portal.azure.com).
 
@@ -47,8 +45,6 @@ In this lab, you will:
 <details>
   <summary markdown="span">Switch between directories</summary>
 
-#### Switch between directories
-
 1. Click on the wheels icon top right
 
   ![image](../Images/03_02.png)
@@ -61,8 +57,6 @@ In this lab, you will:
 
 <details>
   <summary markdown="span">Create a new user "firstuser" in the new directory and assign him "Groups Administrator" permission</summary>
-
-#### Task 2: Create a new user "firstuser" in the new directory and assign him contributor permission
 
 1. In the Azure portal, search for and select **Azure Active Directory**:
 1. Make sure the right directory is created
@@ -96,8 +90,6 @@ In this lab, you will:
 <details>
   <summary markdown="span">Add the new user as a reader to your Azure subscription</summary>
 
-### Task 3: Add the new user as a reader to your Azure subscription
-
 1. Switch back to your original directory
 1. Go to Subscriptions and choose your subscription
 1. In the left menu, and click next
@@ -117,7 +109,6 @@ In this lab, you will:
 <details>
   <summary markdown="span">Login to Azure portal with the new user</summary>
 
-### Task 4: Login to Azure portal with the new user<
 
 1. Open an in private window
 1. Navigate to portal.azure.com
