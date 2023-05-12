@@ -40,6 +40,9 @@ In this task, you will use the Azure portal to create resource groups and create
 
 1. Click **Review + Create** and then click **Create**.
 
+![image](../Images/02_01.png)
+
+
     >**Note**: Wait until the resource group is created. This should take less than a minute.
 
 1. Repeat for "Test" and deploy to North Europe
@@ -87,6 +90,9 @@ In this task, you will use the Azure portal to create resource groups and create
   <summary>Create a policy to only allow West Europe resources to be deployed to Production resource group</summary>
 
 1. In the Azure portal, search for and select **Policies**
+
+![image](../Images/02_02.png)
+
 1. Click Assignments and Assign Policy
 1. Apply the following settings
 
@@ -95,6 +101,9 @@ In this task, you will use the Azure portal to create resource groups and create
     |Scope| your subscription and "Production" resource group |
     |Policy definition| Search for "Allowed locations" |
     |Enforcement| Enabled |
+
+![image](../Images/02_03.png)
+![image](../Images/02_04.png)
 
 1. Click Next and next, to enter Parameters
 
@@ -126,9 +135,12 @@ In this task, you will use the Azure portal to create resource groups and create
 1. In the Azure portal, search for and select **Storage accounts**
 1. Select your storage account
 1. Click Move and Move to another resource group
+
+![image](../Images/02_05.png)
+
 1. Select **Production** and click next and observe a failed validation
 
-
+![image](../Images/02_06.png)
 
 </details>
 
