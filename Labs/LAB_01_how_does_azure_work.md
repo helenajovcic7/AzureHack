@@ -26,7 +26,7 @@ In this lab, you will:
 
 
 <details>
-  <summary>+ Create 2 resource groups - Production (West Europe) and Test (North Europe)</summary>
+  <summary>Create 2 resource groups - Production (West Europe) and Test (North Europe)</summary>
 
 #### Task 1: Create resource groups
 
@@ -46,18 +46,8 @@ In this task, you will use the Azure portal to create resource groups and create
 
 </details>
 
-+ Tag a resource group with a tag Department "IT"
-+ Add a Storage account named "myfirststorageaccount" to Test resource group in North Europe
-+ Create a policy to only allow West Europe  and North Europe and appy to your resource groups
-+ Create a resource lock to disable deletion of Production resource group
-
-
-
-## Solution
-
-
-
-
+<details>
+  <summary>Tag a resource group with a tag Department "IT"</summary>
 
 #### Task 2: Tag resource group
 
@@ -70,6 +60,11 @@ In this task, you will use the Azure portal to create resource groups and create
     |Department| IT |
 
 1. Click Apply
+
+</details>
+
+<details>
+  <summary>Add a Storage account named "myfirststorageaccount" to Test resource group in North Europe</summary>
 
 ### Task 3: Create a storage account in Test resource group
 
@@ -85,6 +80,24 @@ In this task, you will use the Azure portal to create resource groups and create
 1. Note that storage accounts have to be globally unique. Pick a new unique name
 
 1. Click **Review + Create** and then click **Create**.
+
+</details>
+
+<details>
+  <summary>Create a policy to only allow West Europe  and North Europe and appy to your resource groups</summary>
+
+
+</details>
+
+<details>
+  <summary>Create a resource lock to disable deletion of Production resource group</summary>
+
+
+</details>
+
+
+
+
 
 
 #### Task 2: Move resources between resource groups 
