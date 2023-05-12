@@ -30,6 +30,7 @@ In this lab, you will:
 
 </details>
 
+<br>
 
 <details>
   <summary markdown="span">Find information about your account</summary>
@@ -42,6 +43,7 @@ In this lab, you will:
 
 
 </details>
+<br>
 
 <details>
   <summary markdown="span">Find link to documentation</summary>
@@ -51,7 +53,7 @@ or
 1. Click on link on the bottom left of the front page
 
 </details>
-
+<br>
 
 <details>
   <summary markdown="span">Navigate to Azure quotas page</summary>
@@ -61,7 +63,7 @@ or
 
 
 </details>
-
+<br>
 
 
 
@@ -74,7 +76,7 @@ or
 
 
 </details>
-
+<br>
 
 <details>
   <summary markdown="span">Find quotas applied to your subscription </summary>
