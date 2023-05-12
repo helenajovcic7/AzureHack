@@ -1,6 +1,6 @@
 ---
 lab:
-    title: '01 - How does Azure work?'
+    title: '02 - Managing Azure'
     module: 'Azure Core'
 ---
 
