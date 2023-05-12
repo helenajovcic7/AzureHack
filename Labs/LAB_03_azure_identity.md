@@ -28,7 +28,7 @@ In this lab, you will:
 
 
 <details>
-  <summary>Create a new Azure Active Directory</summary>
+  <summary markdown="span">Create a new Azure Active Directory</summary>
 
 #### Task 1: Create a new Azure Active Directory
 
@@ -45,7 +45,7 @@ In this lab, you will:
 </details>
 
 <details>
-  <summary>Switch between directories</summary>
+  <summary markdown="span">Switch between directories</summary>
 
 #### Switch between directories
 
@@ -60,7 +60,7 @@ In this lab, you will:
 
 
 <details>
-  <summary>Create a new user "firstuser" in the new directory and assign him "Groups Administrator" permission</summary>
+  <summary markdown="span">Create a new user "firstuser" in the new directory and assign him "Groups Administrator" permission</summary>
 
 #### Task 2: Create a new user "firstuser" in the new directory and assign him contributor permission
 
@@ -92,7 +92,7 @@ In this lab, you will:
 
 
 <details>
-  <summary>Add the new user as a reader to your Azure subscription</summary>
+  <summary markdown="span">Add the new user as a reader to your Azure subscription</summary>
 
 ### Task 3: Add the new user as a reader to your Azure subscription
 
@@ -111,7 +111,7 @@ In this lab, you will:
 
 
 <details>
-  <summary>Login to Azure portal with the new user</summary>
+  <summary markdown="span">Login to Azure portal with the new user</summary>
 
 ### Task 4: Login to Azure portal with the new user<
 
@@ -125,7 +125,7 @@ In this lab, you will:
 </details>
 
 <details>
-  <summary>Create a group called "allguests" for all **guest** users in your tenant and add "firstuser"</summary>
+  <summary markdown="span">Create a group called "allguests" for all **guest** users in your tenant and add "firstuser"</summary>
 
 1. In the Azure portal, search for and select **Azure Active Directory**
 1. Select Groups, New Group
@@ -140,7 +140,7 @@ In this lab, you will:
 </details>
 
 <details>
-  <summary>Optional - add your private hotmail or gmail as a reader and add them to the allguests group</summary>
+  <summary markdown="span">Optional - add your private hotmail or gmail as a reader and add them to the allguests group</summary>
 
 
 
@@ -151,7 +151,7 @@ In this lab, you will:
 
 
 <details>
-  <summary>Move the storage account you created before to "Production" resource group </summary>
+  <summary markdown="span">Move the storage account you created before to "Production" resource group </summary>
 
 1. In the Azure portal, search for and select **Storage accounts**
 1. Select your storage account
