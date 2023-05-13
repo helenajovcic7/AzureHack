@@ -112,7 +112,7 @@ when creating testvnet, you will need to delete the assigned IP address space fi
 <details>
   <summary markdown="span">Hints</summary>
 
-    ![image](../Images/06_04.png)
+![image](../Images/06_04.png)
 </details>
 <br/><br/>
 
@@ -127,7 +127,7 @@ when creating testvnet, you will need to delete the assigned IP address space fi
 <details>
   <summary markdown="span">Hints</summary>
 
-    ![image](../Images/06_04.png)
+![image](../Images/06_04.png)
 </details>
 <br/><br/>
 
@@ -157,7 +157,8 @@ when creating testvnet, you will need to delete the assigned IP address space fi
 
 <details>
   <summary markdown="span">Hints</summary>
-    ![image](../Images/06_05.png)
+
+![image](../Images/06_05.png)
 </details>
 <br/><br/>
 
@@ -177,7 +178,8 @@ when creating testvnet, you will need to delete the assigned IP address space fi
 
 <details>
   <summary markdown="span">Hints</summary>
-    ![image](../Images/06_06.png)
+
+![image](../Images/06_06.png)
 </details>
 <br/><br/>
 
