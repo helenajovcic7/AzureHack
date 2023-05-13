@@ -10,7 +10,7 @@ lab:
 
 You will learn fundamentals of Azure administration capabilities - login to portal, create and manage resource groups and create and manage resources. 
 
-First try to solve the challenges on your own, in case you have trouble, click on the arrow left of the challenge for a detailed guide
+First try to solve the challenges on your own, in case you have trouble, click on the arrow left of the challenge for a detailed guide or ask facilitator for help.
 
 ## Objectives
 
@@ -40,7 +40,7 @@ In this lab, you will:
 
 1. Click **Review + Create** and then click **Create**.
 
-![image](../Images/02_01.png)
+  ![image](../Images/02_01.png)
 
 
     >**Note**: Wait until the resource group is created. This should take less than a minute.

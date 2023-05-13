@@ -1,16 +1,16 @@
 ---
 lab:
-    title: '05 - Virtual Machines'
+    title: '05 - Azure Networking'
     module: 'Azure Infrastructure'
 ---
 
-# Lab 04 - Virtual Machines
+# Lab 06 - Azure Networking
 
 ## Challenge scenario
 
-You will learn fundamentals of AzureNetworking. 
+You will learn fundamentals of Azure Networking. Your goal will be to create sfotware defined networking to support production and test workloads.
 
-The solutions will not be provided - you should have enough experience by now to explore Azure Portal on your own. In case you do have trouble, ask your facilitator for help. You will be provided with some hints on how to proceed
+The solutions will not be provided - you should have enough experience by now to explore Azure Portal on your own. In case you do have trouble, there are some hints available, but you can also ask your facilitator for help.
 
 ## Objectives
 
@@ -62,7 +62,7 @@ In this lab, you will:
 <br/><br/>
 
 
-### Challenge 2 - Deploy 3 VMs 
+### Challenge 2 - Deploy our production 
 
 1. VM 1 - Production frontend
 

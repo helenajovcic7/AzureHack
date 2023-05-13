@@ -10,7 +10,7 @@ lab:
 
 You will learn fundamentals of Azure administration capabilities - Users, Role Based Access Control
 
-First try to solve the challenges on your own, in case you have trouble, click on the arrow left of the challenge for a detailed guide
+First try to solve the challenges on your own, in case you have trouble, click on the arrow left of the challenge for a detailed guide or ask facilitator for help.
 
 ## Objectives
 
