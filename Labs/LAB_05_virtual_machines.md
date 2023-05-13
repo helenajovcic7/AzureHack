@@ -47,8 +47,8 @@ In this lab, you will:
 <details>
   <summary markdown="span">Hints</summary>
 
-    ![image](../Images/05_01.png)
-    ![image](../Images/05_03.png)
+![image](../Images/05_01.png)
+![image](../Images/05_03.png)
 
 </details>
 <br/><br/>
@@ -64,9 +64,9 @@ In this lab, you will:
 <details>
   <summary markdown="span">Hints</summary>
 
-    ![image](../Images/05_04.png)
-    ![image](../Images/05_05.png)
-    ![image](../Images/05_06.png)
+![image](../Images/05_04.png)
+![image](../Images/05_05.png)
+![image](../Images/05_06.png)
 </details>
 <br/><br/>
 
@@ -79,7 +79,7 @@ In this lab, you will:
 <details>
   <summary markdown="span">Hints</summary>
 
-    ![image](../Images/05_07.png)
+![image](../Images/05_07.png)
 
 </details>
 <br/><br/>
@@ -93,9 +93,10 @@ In this lab, you will:
 
 <details>
   <summary markdown="span">Hints</summary>
-    First remove the lock we created in challenge 2 ;)
-    ![image](../Images/05_08.png)
-    ![image](../Images/05_09.png)
-    ![image](../Images/05_10.png)
+
+First remove the lock we created in challenge 2 ;)
+![image](../Images/05_08.png)
+![image](../Images/05_09.png)
+![image](../Images/05_10.png)
 </details>
 <br/><br/>
