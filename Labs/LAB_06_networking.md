@@ -1,6 +1,6 @@
 ---
 lab:
-    title: '05 - Azure Networking'
+    title: '06 - Azure Networking'
     module: 'Azure Infrastructure'
 ---
 
