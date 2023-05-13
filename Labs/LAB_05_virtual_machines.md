@@ -4,13 +4,13 @@ lab:
     module: 'Azure Infrastructure'
 ---
 
-# Lab 04 - Virtual Machines
+# Lab 05 - Virtual Machines
 
 ## Challenge scenario
 
 You will learn fundamentals of Virtual Machines - How to create, select the right size and how to manage them. 
 
-The solutions will not be provided - you should have enough experience by now to explore Azure Portal on your own. In case you do have trouble, ask your facilitator for help. You will be provided with some hints on how to proceed
+The solutions will not be provided - you should have enough experience by now to explore Azure Portal on your own. In case you do have trouble, there are some hints available, but you can also ask your facilitator for help.
 
 ## Objectives
 
