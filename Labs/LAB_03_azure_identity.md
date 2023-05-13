@@ -47,7 +47,7 @@ In this lab, you will:
 
 1. Click on the wheels icon top right
 
-  ![image](../Images/03_02.png)
+   ![image](../Images/03_02.png)
 
 </details>
 <br/><br/>
