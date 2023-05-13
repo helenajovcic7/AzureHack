@@ -111,7 +111,7 @@ In this lab, you will:
    ![image](../Images/01_09.png)
 1. Name it "My first Dashboard"
 1. Go to Setting and "Appearance + Startup" and scroll down to Startup Page
-   ![image](../Images/01_010.png)
+   ![image](../Images/01_10.png)
 
 
 </details>

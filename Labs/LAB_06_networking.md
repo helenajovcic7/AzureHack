@@ -51,12 +51,12 @@ In this lab, you will:
 <details>
   <summary markdown="span">Hints</summary>
 
-    ![image](../Images/06_01.png)
-    ![image](../Images/06_02.png)
+![image](../Images/06_01.png)
+![image](../Images/06_02.png)
 
-    when creating testvnet, you will need to delete the assigned IP address space first
+when creating testvnet, you will need to delete the assigned IP address space first
 
-    ![image](../Images/06_03.png)
+![image](../Images/06_03.png)
     
 </details>
 <br/><br/>
