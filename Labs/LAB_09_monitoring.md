@@ -1,4 +1,3 @@
-
 ---
 lab:
     title: '09 - Plan and Monitor Azure'
