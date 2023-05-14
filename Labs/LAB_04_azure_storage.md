@@ -43,11 +43,14 @@ In this lab, you will:
 
 1. Select Add directory and name it images
 1. Select Upload to drag and drop 2 images from your machine.
-1. Select the image you uploaded and copy URL
 
     ![image](../Images/04_03.png)
     ![image](../Images/04_04.png)
     ![image](../Images/04_05.png)
+
+1. Select the image you uploaded and copy URL
+
+    ![image](../Images/04_05a.png)
 
 1. Open in private browsing and navigate to the url
 1. Repeat the process to add container Private, with the access set to privte. Upload an image and copy URL
