@@ -1,4 +1,3 @@
-
 ---
 lab:
     title: '07 - Applications and Serverless'
@@ -147,6 +146,6 @@ yeasy/simple-web:latest
   ![image](../Images/07_15.png)
   ![image](../Images/07_16.png)
   ![image](../Images/07_17.png) 
-   
+
 </details>
 <br/><br/>
