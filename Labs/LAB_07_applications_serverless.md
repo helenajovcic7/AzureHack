@@ -123,6 +123,7 @@ In this lab, you will:
 1. Login if needed
 
 1. In "When a resource event occurs" enter the following for trigger
+
     |Name|Value|
     |---|---|
     |Subscription| (select your subscription) |

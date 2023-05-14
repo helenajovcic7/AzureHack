@@ -17,6 +17,7 @@ The solutions will not be provided - you should have enough experience by now to
 In this lab, you will:
 
 + Create an managed server and a database
++ backup a database
 
 
 ## Challenges
