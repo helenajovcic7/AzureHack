@@ -21,9 +21,6 @@ In this lab, you will:
 + Create a simple Logic app that will send an email when the swap will take place
 
 
-
-yeasy/simple-web:latest
-
 ## Challenges
 
 ### Challenge 1 - Our first web site
@@ -73,7 +70,7 @@ yeasy/simple-web:latest
 ### Challenge 2: create a Staging slot
 
 1. Create a New Staging slot
-1. First, upgrade from free toto S1 Tier (hidden under "See additional options") and click Apply
+1. First, upgrade from free to S1 Tier (hidden under "See additional options") and click Apply
 1. Create a new Deployment slot and call it "test"
 1. Click on the slot and select Deployment Center
 
@@ -88,8 +85,9 @@ yeasy/simple-web:latest
   <summary markdown="span">Hints</summary>
 
 1. Create a New Staging slot
-1. First, upgrade from free toto S1 Tier (hidden under "See additional options") and click Apply
+1. First, upgrade from free to S1 Tier
   ![image](../Images/07_06.png)
+   (hidden under "See additional options") and click Apply
   ![image](../Images/07_07.png)
 1. Create a new Deployment slot and call it "test"
   ![image](../Images/07_08.png)
@@ -109,7 +107,7 @@ yeasy/simple-web:latest
 </details>
 <br/><br/>
 
-### Challenge 3 - Get a Notification when swap occurs
+### Challenge 3 (optional): - Get a Notification when swap occurs
 
 1. Create a new Logic App
 
