@@ -16,7 +16,7 @@ First try to solve the challenges on your own, in case you have trouble, click o
 
 In this lab, you will:
 
-+ Login and browse through the Azure portal
++ Learn about fundamentals of managing Azure
 
 
 
@@ -72,6 +72,18 @@ In this lab, you will:
 1. In the Azure portal, search for and select **Subscriptions**
    ![image](../Images/01_03.png)
 1. Click on your subscription
+
+
+</details>
+<br/><br/>
+
+<details>
+  <summary markdown="span">Find what permission do you have in your subscription </summary>
+
+1. In the Azure portal, search for and select **Subscriptions**
+   ![image](../Images/01_03.png)
+1. Click on your subscription
+1. Find "My permission"
 
 
 </details>
