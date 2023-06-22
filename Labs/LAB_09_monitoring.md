@@ -34,7 +34,7 @@ Our management has a task - We need to to a cost estimate
 1. Navigate to https://azure.microsoft.com/en-us/pricing/calculator/
 1. Sign in to the page
 1. Create a new Estimate
-1. Add all the services we have created, with correct sizes. Try to remember all different components
+1. Add all the services we have created up until now, with correct sizes. Try to remember all different components
 1. Export the cost estimate
 
 
@@ -49,6 +49,7 @@ Our management has a task - We need to to a cost estimate
     App Service (S1)
     SQL Server
     Logic App
+    Function app
 
 </details>
 <br/><br/>

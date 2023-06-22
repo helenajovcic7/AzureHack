@@ -107,7 +107,7 @@ In this lab, you will:
 </details>
 <br/><br/>
 
-### Challenge 3 (optional): - Get a Notification when swap occurs
+### Challenge 3: - Get a Notification when swap occurs
 
 1. Create a new Logic App
 
@@ -145,6 +145,33 @@ In this lab, you will:
   ![image](../Images/07_15.png)
   ![image](../Images/07_16.png)
   ![image](../Images/07_17.png) 
+
+</details>
+<br/><br/>
+
+### Challenge 4: - Create a function app
+
+1. Create a new Function App
+
+    |Name|Value|
+    |---|---|
+    |Resource Group| Web |
+    |Name| (unique name) |
+    |Region| West europe |
+    |Runtime Stack| .net 6 |
+    |Plan| Consumption |
+
+
+1. After deployed, find "Functions" and Create a new trigger
+1. Develop in portal
+1. Use Http Trigger
+1. Do a test run
+1. Create another with Timer trigger
+
+<details>
+  <summary markdown="span">Hints</summary>
+
+1. No hints this time, just do it ;)
 
 </details>
 <br/><br/>
