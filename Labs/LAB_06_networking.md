@@ -184,8 +184,4 @@ In this lab, you will:
 <br/><br/>
 
 
-### Challenge 6 - Cleanup
-
-1. Delete all resources in the subscription - easiest is to delete both Production and Test resource groups
-
 
