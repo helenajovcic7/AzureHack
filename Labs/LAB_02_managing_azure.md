@@ -30,7 +30,7 @@ In this lab, you will:
   <summary markdown="span">Create 2 resource groups - Production (West Europe) and Test (North Europe)</summary>
 
 
-1. In this task, you will use the Azure portal to create resource groups and create a disk in the resource group.
+1. In this task, you will use the Azure portal to create resource groups and create a storage account in the resource group.
 
 1. Sign in to the [**Azure portal**](http://portal.azure.com).
 
@@ -78,7 +78,7 @@ In this lab, you will:
     |Resource group| **Test** |
     |Storage account name| **myfirststorageaccount** |
     |Region| **North Europe** |
-    |Redindancy| **Localy redundant storage** |
+    |Redundancy| **Localy redundant storage** |
 
 1. Note that storage accounts have to be globally unique. Pick a new unique name
 
