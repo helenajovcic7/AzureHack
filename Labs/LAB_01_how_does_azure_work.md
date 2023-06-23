@@ -22,6 +22,7 @@ In this lab, you will:
 
 ## Challenges
 
+
 <details>
   <summary markdown="span">Login to Azure portal</summary>
 
