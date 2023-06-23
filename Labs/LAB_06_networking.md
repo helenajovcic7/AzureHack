@@ -137,7 +137,7 @@ when creating testvnet, you will need to delete the assigned IP address space fi
 
     |Name|Value|
     |---|---|
-    |Resource Group| Production |
+    |Resource Group| Test |
     |Name| testVM |
     |Image| Unitnut Server 20.04 LTS |
     |Size| B1ls |
@@ -150,7 +150,7 @@ when creating testvnet, you will need to delete the assigned IP address space fi
     |Subnet| frontend |
     |PublicIP| none |
 
-    write donw the private IP of the virtual machine. It should be 10.1.0.4
+    + write down the private IP of the virtual machine. It should be 10.1.0.4
 
 1. After deployment, return to Cloud Shell
 1. Ping 10.1.0.4 - it is unable to ping it
