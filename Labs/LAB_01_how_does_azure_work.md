@@ -6,7 +6,7 @@ lab:
 
 # Lab 01 - How does Azure work?
 
-## Challenge scenario
+## Challenge scenario 888
 
 You will learn fundamentals of Azure administration capabilities - get arround Azure portal
 
