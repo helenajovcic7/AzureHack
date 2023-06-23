@@ -17,7 +17,7 @@ The solutions will not be provided - you should have enough experience by now to
 In this lab, you will:
 
 + Create a new virtual machine
-+ Explore different sitzes of Virtual machines
++ Explore different sizes of Virtual machines
 
 
 ## Challenges
