@@ -77,12 +77,12 @@ In this lab, you will:
     ![image](../Images/03_04.png)
 
 1. Review + Create
-1. alternatively, you can add group after the user is created via Assigned roles
+1. Alternatively, you can add group after the user is created via Assigned roles
 
 
     ![image](../Images/03_05.png)
 
-  Note that we cannot add any Azure permission, since the thew Active Directory does not contain any subscriptions
+  + Note that we cannot add any Azure permission, since the thew Active Directory does not contain any subscriptions
 
 </details>
 <br/><br/>
@@ -92,11 +92,11 @@ In this lab, you will:
 
 1. Switch back to your original directory
 1. Go to Subscriptions and choose your subscription
-1. In the left menu, and click next
+1. In the left menu, choose Access Control and click Add role assignment
 
     ![image](../Images/03_06.png)
 
-1. Click select Members and search for firstuser@<yourdomain>.onmicrosoft.com. Dobule click to select
+1. Click select Members and search for firstuser@yourdomain.onmicrosoft.com. Dobule click to select
 
     ![image](../Images/03_07.png)
 1. Review + Assign
@@ -127,6 +127,7 @@ In this lab, you will:
 1. Select Groups, New Group
 
     ![image](../Images/03_08.png)
+
 
 1. Select allguests group and select Members in left menu
 1. Select Add Members and find firstuser
