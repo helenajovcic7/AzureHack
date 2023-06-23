@@ -54,7 +54,7 @@ In this lab, you will:
 ![image](../Images/06_01.png)
 ![image](../Images/06_02.png)
 
-when creating testvnet, you will need to delete the assigned IP address space first
++ when creating testvnet, you will need to delete the assigned IP address space first
 
 ![image](../Images/06_03.png)
     
@@ -82,7 +82,7 @@ when creating testvnet, you will need to delete the assigned IP address space fi
 
     Make sure to place in the right network and subnet!
 
-    write down both IP address-es - public and private (should be 10.0.0.4)
++ write down both IP address-es - public and private (should be 10.0.0.4)
 
 1. VM 2 - Production backend
 
@@ -104,7 +104,7 @@ when creating testvnet, you will need to delete the assigned IP address space fi
 
     Make sure to place in the right network and subnet. The public inbound port should be set to **none**, as backend machines shoudl not be publically accessible. Also, no public IP.
 
-    write down the privateIP address - it should be 10.0.1.4
++ write down the privateIP address - it should be 10.0.1.4
 
 
 
@@ -120,8 +120,8 @@ when creating testvnet, you will need to delete the assigned IP address space fi
 ### Challenge 3 ping one machine from another
 
 1. Use Cloud Shell to login to frontendVM (ssh linuxuser@<public IP>)
-1. use "ping <ip of the backendVM>"
-1. keep the cloud shell open, but you can minimize it
+1. Use "ping <ip of the backendVM>"
+1. Keep the cloud shell open, but you can minimize it
 
 
 <details>
@@ -150,7 +150,7 @@ when creating testvnet, you will need to delete the assigned IP address space fi
     |Subnet| frontend |
     |PublicIP| none |
 
-    + write down the private IP of the virtual machine. It should be 10.1.0.4
++ write down the private IP of the virtual machine. It should be 10.1.0.4
 
 1. After deployment, return to Cloud Shell
 1. Ping 10.1.0.4 - it is unable to ping it
