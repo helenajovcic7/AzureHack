@@ -53,6 +53,7 @@ In this lab, you will:
 1. In the Azure portal, search for and select **Subscriptions**
 
    ![image](../Images/01_03.png)
+
    
 1. Click on your subscription
 1. Find "My permission"
@@ -81,7 +82,7 @@ In this lab, you will:
    
    ![image](../Images/01_06.png)
    
-1. type "Date" to show system time
+1. Type "Date" to show system time
    
    ![image](../Images/01_07.png)
 
