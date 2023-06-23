@@ -65,3 +65,7 @@ Our management has a task - We need to do a cost estimate
 
 </details>
 <br/><br/>
+
+### Challenge 3 - Cleanup
+
+1. Delete all resources in the subscription - easiest is to delete both Production and Test resource groups
