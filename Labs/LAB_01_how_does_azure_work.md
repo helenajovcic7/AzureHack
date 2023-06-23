@@ -53,8 +53,7 @@ In this lab, you will:
 1. In the Azure portal, search for and select **Subscriptions**
 
    ![image](../Images/01_03.png)
-
-   
+<br/>
 1. Click on your subscription
 1. Find "My permission"
 
