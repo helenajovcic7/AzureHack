@@ -40,6 +40,7 @@ In this lab, you will:
 1. Select Storage Browser, blob containters and Add container. Name it "public" and select Public access level to Blob
 
     ![image](../Images/04_02.png)
+   
 
 1. Select Add directory and name it images
 1. Select Upload to drag and drop 2 images from your machine.
