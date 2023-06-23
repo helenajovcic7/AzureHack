@@ -1,10 +1,10 @@
 ---
 lab:
-    title: '09 - Plan and Monitor Azure'
+    title: '07 - Plan and Monitor Azure'
     module: 'App services'
 ---
 
-# Lab 09 - Plan and Monitor Azure
+# Lab 07 - Plan and Monitor Azure
 
 ## Challenge scenario
 
