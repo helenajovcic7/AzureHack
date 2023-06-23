@@ -84,19 +84,3 @@ In this lab, you will:
 </details>
 <br/><br/>
 
-
-
-
-### Challenge 4 - Cleanup
-
-1. Delete the Virtiual machine and all associated servcices created. Leave the "production" resource group
-
-<details>
-  <summary markdown="span">Hints</summary>
-
-First remove the lock we created in challenge 2 ;)
-![image](../Images/05_08.png)
-![image](../Images/05_09.png)
-![image](../Images/05_10.png)
-</details>
-<br/><br/>
